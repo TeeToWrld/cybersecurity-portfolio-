@@ -36,10 +36,10 @@ This project demonstrates how to configure and test AWS Security Groups to allow
 - How misconfigured rules can block access even when the server is running.
 
 
-[screenshot](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/check%20for%20%20allowing%20only%20me%20access%20ssh.png)
-[screenshot](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/check%20for%20denying%20ssh%20access.png)
-[screenshot](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/instance%20A%202%20.png)
-[screenshot](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/instance%20A.png)
+[Allow SSH](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/check%20for%20%20allowing%20only%20me%20access%20ssh.png)
+[Deny SSH](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/check%20for%20denying%20ssh%20access.png)
+[Instance A](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/instance%20A%202%20.png)
+[instance A2](https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/instance%20A.png)
 ---
 
 🧠 *This project is part of my ongoing cybersecurity lab series, where I simulate real-world security scenarios while learning cloud and network security basics.*
