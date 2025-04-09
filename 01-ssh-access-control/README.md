@@ -35,8 +35,8 @@ This project demonstrates how to configure and test AWS Security Groups to allow
 - That SSH access can be easily revoked or granted without restarting instances.
 - How misconfigured rules can block access even when the server is running.
 
-## 📸 Screenshots (optional)
-
+## 📸 Screenshots
+https://github.com/TeeToWrld/cybersecurity-portfolio-/blob/main/check%20for%20%20allowing%20only%20me%20access%20ssh.png
 
 ---
 
